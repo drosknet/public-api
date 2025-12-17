@@ -1,17 +1,17 @@
 {
-  "schemaVersion": 1,
-  "minLauncherVersion": "1.0.0",
-  "changelogUrl": "",
+  "schema_version": 1,
+  "min_launcher_version": "1.0.0",
+  "changelog_url": "",
   "platforms": {
     "windows": {
       "version": "0.0.1",
-      "releaseDate": "2025-12-06T15:00:00Z",
-      "isCritical": true,
+      "timestamp": "2025-12-06T15:00:00Z",
+      "critical": true,
       "url": "",
       "size": -1,
       "compression": "zip",
       "checksum": "",
-      "signatureUrl": "",
+      "signature_url": "",
       "notes":""
     },
   }
