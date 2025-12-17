@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "min_launcher_version": "1.0.0",
+  "min_launcher_version": "0.0.1",
   "changelog_url": "",
   "platforms": {
     "windows": {
